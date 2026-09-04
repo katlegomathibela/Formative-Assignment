@@ -25,3 +25,9 @@ API endpoint documentation
 Application source code
 Project documentation
 Demonstration video link
+
+Author
+
+Katlego Mathibela
+
+This project was developed as part of an academic software/database development project.
