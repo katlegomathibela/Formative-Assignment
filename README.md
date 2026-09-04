@@ -14,3 +14,14 @@ The application uses a relational SQL database designed from an Entity Relations
 The database includes tables for users, events, categories, enrolments and results. Primary keys and foreign keys are used to establish relationships between tables and maintain data integrity.
 
 Constraints such as NOT NULL, UNIQUE and default values are also used where appropriate.
+
+Project Structure
+
+The repository contains the following main components:
+
+Database SQL scripts
+ERD/database design
+API endpoint documentation
+Application source code
+Project documentation
+Demonstration video link
