@@ -32,6 +32,7 @@ View participants enrolled in events
 Record participant results
 View event results
 
+<img width="1337" height="559" alt="image" src="https://github.com/user-attachments/assets/813a8052-1165-4aec-a484-65aedf7c0050" />
 
 
 Project Structure
