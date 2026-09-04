@@ -7,6 +7,22 @@ The Event Management System is a web-based application designed to manage events
 
 The system was designed using an Entity Relationship Diagram (ERD), a relational SQL database and a REST API structure.
 
+User Roles
+Participant
+
+Participants can:
+
+Register and log into the system
+View available events
+View event details and categories
+Enrol in events
+Withdraw from events
+View their personal enrolments
+View their event results
+Manage their profile
+
+
+
 Project Structure
 
 The repository contains the following main components:
