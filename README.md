@@ -21,6 +21,17 @@ View their personal enrolments
 View their event results
 Manage their profile
 
+Organiser
+
+Organisers can:
+
+Log into the system
+Create and manage events
+Create and manage event categories
+View participants enrolled in events
+Record participant results
+View event results
+
 
 
 Project Structure
