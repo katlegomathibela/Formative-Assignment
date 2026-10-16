@@ -49,6 +49,7 @@ Demonstration video link
 Started Coding on VS 2022
 Added Category.cs
 Added Event.cs
+Add EF Core models and SQL Server database context
 
 
 Author
