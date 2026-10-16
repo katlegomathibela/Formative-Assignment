@@ -47,6 +47,9 @@ Project documentation
 Demonstration video link
 
 Started Coding on VS 2022
+Added Category.cs
+Added Event.cs
+
 
 Author
 
