@@ -50,6 +50,7 @@ Started Coding on VS 2022
 Added Category.cs
 Added Event.cs
 Add EF Core models and SQL Server database context
+Implement registration, login, password hashing and JWT authentication
 
 
 Author
