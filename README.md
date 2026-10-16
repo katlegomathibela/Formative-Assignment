@@ -46,11 +46,13 @@ Application source code
 Project documentation
 Demonstration video link
 
+PART 2
 Started Coding on VS 2022
 Added Category.cs
 Added Event.cs
 Add EF Core models and SQL Server database context
 Implement registration, login, password hashing and JWT authentication
+Add authenticated user profile retrieval and updates
 
 
 Author
