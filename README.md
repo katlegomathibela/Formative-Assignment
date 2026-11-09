@@ -55,6 +55,16 @@ Implement registration, login, password hashing and JWT authentication
 Add authenticated user profile retrieval and updates
 https://youtu.be/icDjfQBNe6k
 
+Final POE
+
+ Authentication
+User login and registration.
+Session-based authentication.
+JWT storage in the MVC session.
+Logout functionality.
+Role-based navigation.
+Automatic redirection based on user role
+
 
 Author
 
